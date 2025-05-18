@@ -7,7 +7,7 @@ What is on the screen?
 How to use?
 "_" stands for character.
 "0" stands for space.
-- You can click on the buttons "_" (or press on 1 on the keyboard) in the left to add a new character and "0" (or keyborad Space) for space. There are instant input buttons "2, 3, 4, 5" (or 2, 3, 4, 5 on keyboard) to add 2 or more "_" at once. It will automatically add a space at the end if you use instant input the "0" at the end will be automatically eliminated when you click "CHECK" so don't need to delete it manually.
+- You can click on the buttons "_" (or press on 1 on the keyboard) in the left to add a new character and "0" (or keyborad Space) for space. There are instant input buttons "2, 3, 4, 5" (or 2, 3, 4, 5 on keyboard) to add 2 or more underscores at once. It will automatically add a space at the end if you use instant input the "0" at the end will be automatically eliminated when you click "CHECK" so don't need to delete it manually.
 For example: The game shows "___ __", type in "3 2" and you should get "___0__0"
 - After entering the word, click on check (or keyboard Enter), all possible result will be shown.
 - Click on clear to delete all the characters (or delete on the keyboard)
