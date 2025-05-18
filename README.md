@@ -9,6 +9,7 @@ Buttons on the left
 Functions on the right
 
 🎮 How to Use
+
 _ stands for a character
 
 0 stands for a space
