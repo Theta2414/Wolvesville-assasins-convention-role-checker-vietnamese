@@ -65,6 +65,8 @@ pip install tkinter
 macOS/Linux
 Tkinter usually comes pre-installed. If not, search for platform-specific installation methods.
 
+This program also work in other languages, just change the role_list to the language you want.
+
 ⚖️ Disclaimer
 This tool is for educational purposes only.
 I do not recommend using it to cheat in the game.
