@@ -157,7 +157,6 @@ def supersort(sup_value, mustsolution_value):
                     if sup_value[com2] == sto[com2]:
                         result = True
                     else:
-                        result = False
                         break
             if result:
                 finalsolution_out.append(mustsolution_value[com1])
