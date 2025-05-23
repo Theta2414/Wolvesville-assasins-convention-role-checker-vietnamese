@@ -41,8 +41,8 @@ Backspace — (or press Backspace) to remove the last character
 If the phrase is too long and doesn't fully show on screen (especially on mobile), use Unfinished Check.
 
 Example:
-Game shows: "___ __ _____ __"
-But only "___ __ _____ _" is visible — you're unsure how many characters are missing.
+Game shows: ___ __ _____ __
+But only ___ __ _____ _ is visible — you're unsure how many characters are missing.
 
 Input:
 ___0__0_____0_0
