@@ -2,6 +2,7 @@ Checker (Vietnamese)
 A simple Python app built with Tkinter that helps players find suitable roles (in Vietnamese) for the Assassins Convention mode in the Wolvesville game.
 
 🖥️ What is on the screen?
+
 Input field at the top of the window
 
 Buttons on the left
